@@ -13,4 +13,4 @@ This "bootstraps" the PostgreSQL database with the correct tables. After that yo
 
     docker-compose up -d
 
-At that point, the web application should be visible by going to `localhost:8080` in a web browser. 
+At that point, the web application should be visible by going to [`localhost:8080`](http://localhost:8080/) in a web browser. 
